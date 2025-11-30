@@ -1,3 +1,10 @@
+Fork of https://github.com/r0busta/go-shopify-graphql-model
+
+Changes
+- Bumped schema to 2025-10
+- fetch.bat for windows
+- fetchSchema.js with verbose output in case something goes wrong
+
 # go-shopify-graphql-model
 
 This is a simple library to help you use Shopify's GraphQL objects in your Go code.
